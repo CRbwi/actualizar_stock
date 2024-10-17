@@ -10,3 +10,4 @@ Siguientes pasos que se irán añadiendo.
 - Poder ordenar los productos por nombre o cantidad de stock.
 - Convertir al formato de la base de datos de prestashop las solicitudes tanto de los productos como el login de usuario a admin.
 - Seleccionar la categoría de Prestashop y visualizar los productos del interior de la misma en vez de listado completo.
+- Extraer los estilos CSS a un fichero Styles y darle estilos visualmente atractivos así como responsive.
