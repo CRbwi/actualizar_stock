@@ -1,9 +1,9 @@
 <?php
 // Conexión
-$servidor = '192.168.1.163';
-$usuario = 'juan';
-$password = 'teleline1981';
-$basededatos = 'blog_database';
+$servidor = 'localhost';
+$usuario = 'usuario';
+$password = 'password';
+$basededatos = 'database_name';
 $db = mysqli_connect($servidor, $usuario, $password, $basededatos);
 
 mysqli_query($db, "SET NAMES 'utf8'");
